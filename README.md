@@ -1,14 +1,18 @@
 
 Welcome to Hiptime!
 
-Hiptime: To Do List application 
+Hiptime is a basic task management web application which.
 
-1. Ruby on Rails.
+Users can sign up to manage their tasks.
+
+1. Create new tasks
+2. Edit tasks
+3. Mark tasks as completed
+4. Delete tasks
 
 
 
-
-
+____________________________________________________________
 
 
 
