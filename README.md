@@ -1,9 +1,14 @@
 
 Welcome to Hiptime!
 
-Hiptime is a basic task management web application which.
+Hiptime is a task management web application.
 
-Users can sign up to manage their tasks.
+
+
+
+Users can sign up to manage their tasks through Hiptime.
+
+Users have the ability to:
 
 1. Create new tasks
 2. Edit tasks
